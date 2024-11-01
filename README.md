@@ -2,7 +2,7 @@ Greetings, this is our own iteration of Minishell, a 42 project which is suppose
 This was a 2 man project, started and completed within 6 weeks.
 I worked on the Execution part, which included managing the redirections, pipes, as well as path setting to access bash functions, and implementing some built-ins, like echo, cd and pwd.
 
-Tudor was in charge of parsing, which meant splitting the command line into arguments, and fromatting them correctly so the execution part would work without any issues.
+[Tudor](https://github.com/Tudor-Ursescu) was in charge of parsing, which meant splitting the command line into arguments, and fromatting them correctly so the execution part would work without any issues.
 
 we faced some setbacks on our journey of this shell, but with a lot of input and discussions with peers, we managed to finish and evaluate this project with a solid 100 points.
 
