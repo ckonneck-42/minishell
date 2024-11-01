@@ -1,3 +1,7 @@
+# CatShell
+
+![SadCat](https://media1.tenor.com/m/DM7SdBiQKhEAAAAd/cat-underwater.gif)
+
 Greetings, this is our own iteration of Minishell, a 42 project which is supposed to imitate bash in its functionality.
 This was a 2 man project, started and completed within 6 weeks.
 I worked on the Execution part, which included managing the redirections, pipes, as well as path setting to access bash functions, and implementing some built-ins, like echo, cd and pwd.
