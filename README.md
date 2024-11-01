@@ -16,14 +16,20 @@ But all in all we learned a lot in the process of making this.
 
 Have fun enjoying our minishell :>
 
-HOW TO:
+## HOW TO:
 
-git clone the repository
+1. git clone the repository
 
-cd into repository
+```bash
+   git clone https://github.com/ckonneck-42/minishell.git
+```
 
+2. compiling
+
+```bash
+cd minishell
 make
-
-execute ./minishell
+./minishell
+```
 
 enjoy :)
